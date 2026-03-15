@@ -1,16 +1,81 @@
-## Hi there 👋
+# 👋 Welcome to SSCGram
 
-<!--
-**sscgram/SSCGRAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **SSCGram** is a platform focused on helping competitive exam aspirants with high-quality resources, technology tools, and data-driven insights.
 
-Here are some ideas to get you started:
+Our goal is to build smart tools for **SSC and other government exam preparation** using modern technologies like **AI, APIs, and automation**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Mission
+
+To build a powerful ecosystem where aspirants can get:
+
+* 📊 Exam analysis and insights
+* 🧠 AI powered preparation tools
+* 📝 Mock tests and practice systems
+* 📢 Real-time exam updates
+
+---
+
+## 🧰 Projects
+
+### 📚 Online Examination System
+
+Advanced test platform with features like:
+
+* Mock tests
+* Performance analytics
+* AI generated questions
+* Leaderboards
+* Test series management
+
+---
+
+### 🤖 Aspirant AI
+
+AI-powered assistant designed for exam preparation.
+
+Features include:
+
+* Doubt solving
+* Question explanation
+* Study planning
+* Exam information
+
+---
+
+### 🔗 Automation Tools
+
+* RSS based exam update system
+* Telegram automation bots
+* Content generation using AI
+* Exam notification monitoring
+
+---
+
+## 💻 Technology Stack
+
+* **Backend:** PHP / Laravel / Flask
+* **Database:** MySQL
+* **Automation:** Python
+* **AI Integration:** OpenAI, Gemini
+* **Frontend:** HTML, CSS, JavaScript
+* **Infrastructure:** GitHub, VPS, APIs
+
+---
+
+## 🌐 Connect With SSCGram
+
+🌍 Website: https://sscgram.com
+
+📢 Telegram: https://t.me/sscgramofficial
+
+---
+
+## 📈 Vision
+
+To become one of the most reliable **tech-powered platforms for government exam aspirants in India.**
+
+---
+
+⭐ If you like the projects, consider following this profile!
