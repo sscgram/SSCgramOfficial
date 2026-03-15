@@ -19,7 +19,7 @@ To build a powerful ecosystem where aspirants can get:
 
 ## 🧰 Projects
 
-### 📚 Online Examination System
+### 📚 Online Examination Mock Test
 
 Advanced test platform with features like:
 
